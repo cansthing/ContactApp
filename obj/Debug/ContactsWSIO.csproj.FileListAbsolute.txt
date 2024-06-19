@@ -1,0 +1,17 @@
+C:\Users\Löwen\source\repos\ContactsWSIO\bin\Debug\ContactsWSIO.exe.config
+C:\Users\Löwen\source\repos\ContactsWSIO\bin\Debug\ContactsWSIO.exe
+C:\Users\Löwen\source\repos\ContactsWSIO\bin\Debug\ContactsWSIO.pdb
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\ContactsWSIO.csproj.AssemblyReference.cache
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\AddContact.g.cs
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\MainWindow.g.cs
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\App.g.cs
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\ContactsWSIO_MarkupCompile.cache
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\ContactsWSIO_MarkupCompile.lref
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\AddContact.baml
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\MainWindow.baml
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\ContactsWSIO.g.resources
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\ContactsWSIO.Properties.Resources.resources
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\ContactsWSIO.csproj.GenerateResource.cache
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\ContactsWSIO.csproj.CoreCompileInputs.cache
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\ContactsWSIO.exe
+C:\Users\Löwen\source\repos\ContactsWSIO\obj\Debug\ContactsWSIO.pdb

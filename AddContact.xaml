@@ -1,0 +1,36 @@
+﻿<Window x:Class="ContactsWSIO.AddContact"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ContactsWSIO"
+        mc:Ignorable="d"
+        Title="AddContact" Height="450" Width="400" ShowInTaskbar="False" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Margin="15">
+        <StackPanel >
+            <Label Content="Add a Contact" FontSize="25" FontFamily="IBM PLex Sans" HorizontalAlignment="Center"/>
+            <TextBlock Text="Vorname" Margin="5"/>
+            <TextBox x:Name="tb_firstname" Text="{Binding Firstname}"/>
+
+            <TextBlock Text="Nachname" Margin="5"/>
+            <TextBox x:Name="tb_lastname" Text="{Binding Lastname}"/>
+
+            <TextBlock Text="Email" Margin="5"/>
+            <TextBox x:Name="tb_email" Text="{Binding Email}"/>
+
+            <TextBlock Text="Telefon" Margin="5"/>
+            <TextBox x:Name="tb_phone" Text="{Binding Phone}"/>
+
+            <TextBlock Text="Handy" Margin="5"/>
+            <TextBox x:Name="tb_mobile" Text="{Binding Mobile}"/>
+
+
+
+        </StackPanel>
+        <WrapPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom">
+            <Button Content="Schließen" x:Name="btn_esc" Click="Btn_esc_Click" Margin="0,0,5,0"/>
+            <Button Content="Speichern" x:Name="btn_saveContact" Click="Btn_saveContact_Click" BorderBrush="#FF2931AF" Foreground="White" Background="#FF38509C"/>
+        </WrapPanel>
+
+    </Grid>
+</Window>
